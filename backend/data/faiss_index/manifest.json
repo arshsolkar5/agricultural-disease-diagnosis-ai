@@ -1,0 +1,79 @@
+{
+  "documents": [
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/banana_panama_disease.md",
+      "size": 2620,
+      "mtime_ns": 1783701131891234383
+    },
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/chickpea_wilt.md",
+      "size": 2519,
+      "mtime_ns": 1783701122681675248
+    },
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/citrus_canker.md",
+      "size": 2867,
+      "mtime_ns": 1783701143609417248
+    },
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/cotton_boll_rot.md",
+      "size": 2466,
+      "mtime_ns": 1783701114401188910
+    },
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/early_blight.md",
+      "size": 2094,
+      "mtime_ns": 1783619940897068619
+    },
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/groundnut_leaf_spot.md",
+      "size": 2540,
+      "mtime_ns": 1783701118023744773
+    },
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/late_blight.md",
+      "size": 2771,
+      "mtime_ns": 1783701106617442187
+    },
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/leaf_blast.md",
+      "size": 1092,
+      "mtime_ns": 1783416244769591359
+    },
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/mango_anthracnose.md",
+      "size": 2702,
+      "mtime_ns": 1783701136054054758
+    },
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/northern_corn_leaf_blight.md",
+      "size": 2407,
+      "mtime_ns": 1783701102913039695
+    },
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/septoria_leaf_spot.md",
+      "size": 2530,
+      "mtime_ns": 1783694939289938951
+    },
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/sheath_blight.md",
+      "size": 953,
+      "mtime_ns": 1783416244774171287
+    },
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/soybean_rust.md",
+      "size": 2468,
+      "mtime_ns": 1783701111237489613
+    },
+    {
+      "path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/sugarcane_red_rot.md",
+      "size": 2470,
+      "mtime_ns": 1783701128069910620
+    }
+  ],
+  "docs_path": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "chunk_size": 400,
+  "overlap": 100
+}

@@ -1,0 +1,76 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import '@/styles/tokens.css';
+@import '@/styles/grid.css';
+
+/* Typography System - Perfect Fourth Scale */
+@layer base {
+  h1 {
+    @apply text-5xl font-bold leading-tight tracking-tight;
+  }
+  h2 {
+    @apply text-3xl font-semibold leading-tight tracking-tight;
+  }
+  h3 {
+    @apply text-2xl font-semibold leading-normal;
+  }
+  h4 {
+    @apply text-lg font-medium leading-normal;
+  }
+  h5 {
+    @apply text-base font-medium leading-normal;
+  }
+  p {
+    @apply text-base leading-relaxed;
+  }
+  small {
+    @apply text-sm leading-relaxed;
+  }
+}
+
+/* Swiss Modernism Components */
+@layer components {
+  .btn-primary {
+    @apply rounded-lg bg-emerald-600 px-4 py-2 font-medium text-white transition-all duration-200 hover:bg-emerald-700 active:scale-95 disabled:opacity-50;
+  }
+
+  .btn-secondary {
+    @apply rounded-lg border border-gray-300 bg-white px-4 py-2 font-medium text-gray-900 transition-all duration-200 hover:bg-gray-50 active:scale-95 disabled:opacity-50;
+  }
+
+  .card {
+    @apply rounded-xl border border-gray-200 bg-white p-6 shadow-sm transition-all duration-200;
+  }
+
+  .input-base {
+    @apply rounded-lg border border-gray-300 bg-white px-3 py-2 text-base placeholder-gray-400 transition-colors duration-200 focus:border-emerald-500 focus:outline-none focus:ring-2 focus:ring-emerald-100;
+  }
+
+  .text-muted {
+    @apply text-gray-600;
+  }
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection styling */
+::selection {
+  @apply bg-emerald-100 text-emerald-900;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  @apply h-2 w-2;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-100;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply rounded-full bg-gray-300 hover:bg-gray-400;
+}

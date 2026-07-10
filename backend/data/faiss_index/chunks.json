@@ -1,0 +1,366 @@
+{
+  "1": {
+    "text": "# Panama Disease (Fusarium oxysporum f.sp. cubense) ## Overview Panama disease, also known as Fusarium wilt, is a devastating fungal disease affecting banana plants, caused by *Fusarium oxysporum* f.sp. *cubense*. It's a soil-borne pathogen that causes vascular wilting and has destroyed banana plantations worldwide. ## Symptoms - Yellowing and wilting of older leaves - Wilting progresses to younger leaves - Leaf sheaths split near pseudostem base - Vascular tissue shows reddish-brown discoloration - Internal pseudostem discoloration - Stunted growth and poor fruit development - Plant death in susceptible varieties - Fruit bunches may fail to develop properly ## Conditions - Temperature 25-30\u00b0C optimal for infection - Soil pH 5-6 favors disease development - Poor drainage increases susceptibility - Soil-borne pathogen persists for decades - Infected planting material spreads disease - Water and soil movement spreads inoculum - Warm, moist conditions promote infection - Susceptible varieties (Cavendish) highly affected ## Treatment ### Chemical Control - No effective chemical treatments available - Soil fumigation limited effectiveness - Carbendazim: limited soil drench applications - Biocontrol agents: Trichoderma species - No foliar fungicides effective for wilt - Prevention through clean planting material only ### Cultural Control - Plant resistant varieties (e.g., GCTCV, FHIA) - Use certified disease-free tissue culture plants - Strict quarantine to prevent spread - Avoid infested fields for new plantings - Improve soil drainage - Remove and destroy infected plants immediately - Sterilize tools and equipment - Implement fallow periods in infested areas ### Expected Recovery - No recovery once infected - Prevention critical - no effective cure - Resistant varieties can be grown in infested soil - Soil solarization may reduce inoculum - Biocontrol agents show some promise - Complete plant removal necessary to prevent spread ## Cost Estimate - Resistant variety planting material: \u20b93000-5000/acre - Soil solarization: \u20b92000-3000/acre - Biocontrol applications: \u20b9500-1000/acre - Total: \u20b95500-9000/acre for establishment - No treatment costs after infection - plants must be removed ## Prevention Tips - Use certified disease-free tissue culture plants - Plant resistant varieties in high-risk areas - Implement strict quarantine measures - Avoid moving soil from infested areas - Sterilize tools between fields - Remove and destroy infected plants immediately - Improve soil drainage - Monitor fields regularly for early symptoms - Avoid planting in known infested areas",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/banana_panama_disease.md",
+    "title": "banana_panama_disease",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/banana_panama_disease.md",
+      "title": "banana_panama_disease"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/banana_panama_disease.md",
+    "document_title": "banana_panama_disease",
+    "embedding_id": 1
+  },
+  "2": {
+    "text": "Biocontrol applications: \u20b9500-1000/acre - Total: \u20b95500-9000/acre for establishment - No treatment costs after infection - plants must be removed ## Prevention Tips - Use certified disease-free tissue culture plants - Plant resistant varieties in high-risk areas - Implement strict quarantine measures - Avoid moving soil from infested areas - Sterilize tools between fields - Remove and destroy infected plants immediately - Improve soil drainage - Monitor fields regularly for early symptoms - Avoid planting in known infested areas",
+    "chunk_id": 1,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/banana_panama_disease.md",
+    "title": "banana_panama_disease",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/banana_panama_disease.md",
+      "title": "banana_panama_disease"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/banana_panama_disease.md",
+    "document_title": "banana_panama_disease",
+    "embedding_id": 2
+  },
+  "3": {
+    "text": "# Chickpea Wilt (Fusarium oxysporum f.sp. ciceris) ## Overview Chickpea wilt is a fungal disease affecting chickpea plants, caused by *Fusarium oxysporum* f.sp. *ciceris*. It's a soil-borne pathogen that causes vascular wilting and significant yield loss, particularly in susceptible varieties. ## Symptoms - Yellowing and wilting of lower leaves - Wilting progresses upward through plant - Vascular tissue turns brown/discolored - Stunted growth and poor pod development - Plant death in severe cases - Reduced seed yield and quality - Symptoms often appear during flowering/pod filling - Wilting may be temporary initially, becoming permanent ## Conditions - Temperature 20-30\u00b0C optimal for infection - Soil moisture stress increases susceptibility - Poor drainage and waterlogging - Soil pH 6.5-7.5 favors disease - Continuous chickpea cultivation increases risk - Infected seed and soil serve as inoculum - High nitrogen fertilization increases susceptibility - Warm, dry conditions after infection promote wilting ## Treatment ### Chemical Control - Carbendazim 50% WP: 2g/L seed treatment - Trichoderma viride: 10g/kg seed treatment - Thiophanate-methyl: 2g/kg seed treatment - Soil drench with Carbendazim: 1g/L - Biocontrol agents: Pseudomonas fluorescens seed treatment - No effective foliar fungicides for wilt control ### Cultural Control - Plant resistant varieties when available - Use certified disease-free seeds - Practice crop rotation (3-4 years away from chickpea) - Avoid fields with history of wilt - Improve soil drainage - Maintain balanced fertilization - Avoid excessive nitrogen - Use deep plowing to reduce soil inoculum - Solarization of soil in hot climates ### Expected Recovery - Limited recovery once symptoms appear - Prevention critical - no effective cure - Early planting can escape peak infection - Resistant varieties show good recovery - Soil biocontrol can reduce disease incidence - Crop rotation significantly reduces risk ## Cost Estimate - Seed treatment: \u20b9100-200/acre - Soil treatment: \u20b9300-500/acre - Total: \u20b9400-700/acre for preventive measures - No effective treatment costs after infection ## Prevention Tips - Use certified wilt-resistant varieties - Treat seeds with fungicides/biocontrol agents - Implement long-term crop rotation (3-4 years) - Avoid planting in wilt-infested fields - Maintain proper soil drainage - Balance fertilization, avoid excess nitrogen - Use deep plowing to reduce soil inoculum - Implement soil solarization in hot regions",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/chickpea_wilt.md",
+    "title": "chickpea_wilt",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/chickpea_wilt.md",
+      "title": "chickpea_wilt"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/chickpea_wilt.md",
+    "document_title": "chickpea_wilt",
+    "embedding_id": 3
+  },
+  "4": {
+    "text": "\u20b9300-500/acre - Total: \u20b9400-700/acre for preventive measures - No effective treatment costs after infection ## Prevention Tips - Use certified wilt-resistant varieties - Treat seeds with fungicides/biocontrol agents - Implement long-term crop rotation (3-4 years) - Avoid planting in wilt-infested fields - Maintain proper soil drainage - Balance fertilization, avoid excess nitrogen - Use deep plowing to reduce soil inoculum - Implement soil solarization in hot regions",
+    "chunk_id": 1,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/chickpea_wilt.md",
+    "title": "chickpea_wilt",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/chickpea_wilt.md",
+      "title": "chickpea_wilt"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/chickpea_wilt.md",
+    "document_title": "chickpea_wilt",
+    "embedding_id": 4
+  },
+  "5": {
+    "text": "# Citrus Canker (Xanthomonas axonopodis pv. citri) ## Overview Citrus canker is a bacterial disease affecting citrus plants, caused by *Xanthomonas axonopodis* pv. *citri*. It's a highly contagious disease causing significant yield loss through fruit blemishing, premature fruit drop, and tree weakening. ## Symptoms ### Leaf Symptoms - Raised, corky lesions on leaves - Lesions are water-soaked initially, then become corky - Yellow halos around lesions - Lesions may coalesce in severe cases - Premature defoliation in heavy infections ### Fruit Symptoms - Raised, corky lesions on fruit surface - Lesions may have water-soaked margins - Fruit distortion and reduced marketability - Premature fruit drop in severe cases - Reduced fruit quality and yield ### Stem Symptoms - Corky lesions on twigs and branches - Stem cankers in severe infections - Dieback of affected branches - Reduced tree vigor ## Conditions - Temperature 20-30\u00b0C optimal for infection - High humidity and rainfall critical for spread - Warm, wet weather promotes rapid infection - Wind and rain spread bacteria over long distances - Human activity (tools, equipment) spreads disease - Infected nursery stock spreads disease - Leaf wetness required for infection - All citrus species are susceptible ## Treatment ### Chemical Control - Copper-based bactericides: 2-3g/L, preventive sprays - Streptomycin sulfate: 1g/L for limited applications - Copper oxychloride: 3g/L for preventive sprays - Mancozeb + Copper: 2g/L for protective sprays - No curative treatments available - Prevention through copper sprays only ### Cultural Control - Use certified disease-free nursery stock - Implement strict quarantine measures - Remove and destroy infected trees immediately - Disinfect tools and equipment regularly - Avoid working with trees when wet - Control windbreaks to reduce spread - Maintain proper orchard sanitation - Avoid overhead irrigation when possible ### Expected Recovery - No recovery once infected - Prevention critical - no effective cure - Infected trees must be removed to prevent spread - Copper sprays protect healthy tissue only - Early detection allows removal of individual trees - Quarantine measures essential for control ## Cost Estimate - Copper spray: \u20b9600-1200/acre - Labor: \u20b9300-400/acre - Total: \u20b9900-1600/acre per application - Multiple applications (6-8) typically needed: \u20b95400-12800/acre total - Tree removal costs: \u20b9500-1000 per tree ## Prevention Tips - Use certified disease-free nursery stock - Implement strict quarantine for new plantings - Apply preventive copper sprays regularly - Disinfect tools between trees and orchards - Remove and destroy infected",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/citrus_canker.md",
+    "title": "citrus_canker",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/citrus_canker.md",
+      "title": "citrus_canker"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/citrus_canker.md",
+    "document_title": "citrus_canker",
+    "embedding_id": 5
+  },
+  "6": {
+    "text": "Prevention critical - no effective cure - Infected trees must be removed to prevent spread - Copper sprays protect healthy tissue only - Early detection allows removal of individual trees - Quarantine measures essential for control ## Cost Estimate - Copper spray: \u20b9600-1200/acre - Labor: \u20b9300-400/acre - Total: \u20b9900-1600/acre per application - Multiple applications (6-8) typically needed: \u20b95400-12800/acre total - Tree removal costs: \u20b9500-1000 per tree ## Prevention Tips - Use certified disease-free nursery stock - Implement strict quarantine for new plantings - Apply preventive copper sprays regularly - Disinfect tools between trees and orchards - Remove and destroy infected trees immediately - Avoid working with trees when wet - Control movement of people and equipment - Monitor orchards regularly for symptoms - Report new infections to authorities",
+    "chunk_id": 1,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/citrus_canker.md",
+    "title": "citrus_canker",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/citrus_canker.md",
+      "title": "citrus_canker"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/citrus_canker.md",
+    "document_title": "citrus_canker",
+    "embedding_id": 6
+  },
+  "7": {
+    "text": "# Cotton Boll Rot (Various Fungi) ## Overview Cotton boll rot is a complex disease affecting cotton bolls, caused by multiple fungi including *Fusarium*, *Alternaria*, *Aspergillus*, and *Rhizopus* species. It causes significant yield loss and fiber quality reduction, especially under humid conditions. ## Symptoms - Water-soaked lesions on bolls - Bolls turn brown to black - Internal boll rot and lint discoloration - Fungal growth on affected bolls (white, pink, or black) - Premature boll opening - Reduced lint quality and yield - Hard, matted fibers in severe cases - Sour or musty odor from affected bolls ## Conditions - Temperature 25-35\u00b0C optimal for infection - High humidity (>85%) and rainfall critical - Warm, wet weather promotes rapid spread - Poor air circulation in dense canopy - Insect damage to bolls increases infection risk - Excessive nitrogen fertilization - Late-season rainfall during boll development - Plant stress increases susceptibility ## Treatment ### Chemical Control - Carbendazim 50% WP: 1g/L, spray every 10-12 days - Propiconazole 25% EC: 0.5 mL/L - Azoxystrobin: 1-1.5 mL/L, preventive sprays - Mancozeb 75% WP: 2g/L for preventive applications - Thiophanate-methyl: 1g/L for curative action - Copper oxychloride: 3g/L for preventive sprays ### Cultural Control - Plant resistant varieties when available - Maintain proper plant spacing for air circulation - Avoid excessive nitrogen fertilization - Control insect pests that damage bolls - Ensure proper drainage in fields - Avoid late planting in high-risk areas - Remove and destroy infected bolls - Practice crop rotation (2-3 years) ### Expected Recovery - 10-15 days post-treatment for new infections - 40-60% yield recovery if caught early - Prevention critical due to boll susceptibility - Severe infections may cause permanent yield loss - Fiber quality may be permanently affected ## Cost Estimate - Fungicide spray: \u20b9600-1200/acre - Labor: \u20b9200-300/acre - Total: \u20b9800-1500/acre per application - Multiple applications (2-3) typically needed: \u20b91600-4500/acre total ## Prevention Tips - Start preventive sprays at boll formation stage - Monitor fields regularly during boll development - Control insect pests that create entry points - Avoid overhead irrigation during boll development - Maintain balanced fertilization - Ensure proper field drainage - Harvest at proper maturity to reduce exposure - Store cotton in dry, well-ventilated conditions",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/cotton_boll_rot.md",
+    "title": "cotton_boll_rot",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/cotton_boll_rot.md",
+      "title": "cotton_boll_rot"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/cotton_boll_rot.md",
+    "document_title": "cotton_boll_rot",
+    "embedding_id": 7
+  },
+  "8": {
+    "text": "Total: \u20b9800-1500/acre per application - Multiple applications (2-3) typically needed: \u20b91600-4500/acre total ## Prevention Tips - Start preventive sprays at boll formation stage - Monitor fields regularly during boll development - Control insect pests that create entry points - Avoid overhead irrigation during boll development - Maintain balanced fertilization - Ensure proper field drainage - Harvest at proper maturity to reduce exposure - Store cotton in dry, well-ventilated conditions",
+    "chunk_id": 1,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/cotton_boll_rot.md",
+    "title": "cotton_boll_rot",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/cotton_boll_rot.md",
+      "title": "cotton_boll_rot"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/cotton_boll_rot.md",
+    "document_title": "cotton_boll_rot",
+    "embedding_id": 8
+  },
+  "9": {
+    "text": "# Early Blight (Alternaria solani) ## Overview Early blight is a fungal disease affecting tomato, potato, and other solanaceous crops. Caused by *Alternaria solani*, it causes significant yield loss especially in warm, humid conditions. ## Symptoms - Dark brown to black lesions on leaves with concentric rings (target spots) - Lesions often appear on older leaves first - Yellowing (chlorosis) around lesions - Stem lesions can cause plant wilting - Fruit may develop dark, sunken lesions near the stem end - In severe cases, extensive defoliation occurs ## Conditions - Temperature 20-30\u00b0C optimal - High humidity and leaf wetness promote disease - Poor air circulation increases risk - Nutrient stress (especially potassium deficiency) - Overhead irrigation spreads spores ## Treatment ### Chemical Control - Chlorothalonil: 2-3g/L, spray every 7-10 days - Copper-based fungicides: 2-3g/L, preventive sprays - Mancozeb 75% WP: 2g/L for preventive sprays - Azoxystrobin: 1-1.5mL/L, systemic action - Iprodione 50% WP: 1.5g/L for curative action ### Cultural Control - Remove infected leaves and plant debris - Improve air circulation through proper spacing - Avoid overhead irrigation, use drip irrigation - Rotate crops (3-4 year rotation away from solanaceous crops) - Use resistant varieties when available - Ensure proper fertilization, especially potassium - Stake plants to improve air flow - Mulch to reduce soil splash ### Expected Recovery - 7-14 days after chemical treatment if caught early - 40-60% yield recovery if treated promptly - Prevention more effective than cure - Severe infections may cause permanent yield loss ## Cost Estimate - Fungicide spray: \u20b9400-800/acre - Labor: \u20b9150-250/acre - Total: \u20b9550-1050/acre per application - Multiple applications (2-3) typically needed: \u20b91100-3150/acre total ## Prevention Tips - Start preventive sprays before symptoms appear - Monitor plants regularly, especially after rainy periods - Maintain plant vigor through proper nutrition - Remove lower leaves to improve air circulation - Disinfect tools between plants",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/early_blight.md",
+    "title": "early_blight",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/early_blight.md",
+      "title": "early_blight"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/early_blight.md",
+    "document_title": "early_blight",
+    "embedding_id": 9
+  },
+  "10": {
+    "text": "leaves to improve air circulation - Disinfect tools between plants",
+    "chunk_id": 1,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/early_blight.md",
+    "title": "early_blight",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/early_blight.md",
+      "title": "early_blight"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/early_blight.md",
+    "document_title": "early_blight",
+    "embedding_id": 10
+  },
+  "11": {
+    "text": "# Groundnut Leaf Spot (Cercospora arachidicola) ## Overview Groundnut (peanut) leaf spot is a fungal disease affecting groundnut plants, caused by *Cercospora arachidicola* (early leaf spot) and *Cercosporidium personatum* (late leaf spot). It's one of the most destructive groundnut diseases, causing significant yield loss through defoliation. ## Symptoms ### Early Leaf Spot - Small, circular lesions on leaves (1-5 mm diameter) - Lesions are brown with dark borders - Yellow halo around lesions - Lesions primarily on upper leaf surface - Spots may coalesce in severe cases ### Late Leaf Spot - Larger, dark brown to black lesions - Lesions on both leaf surfaces - No distinct yellow halo - Lesions may have raised centers - More severe defoliation than early leaf spot ## Conditions - Early leaf spot: 25-30\u00b0C optimal - Late leaf spot: 28-32\u00b0C optimal - High humidity (>85%) and leaf wetness required - Warm, wet weather promotes rapid spread - Continuous groundnut cultivation increases risk - Overhead irrigation spreads spores - Spores survive in crop residue and soil ## Treatment ### Chemical Control - Chlorothalonil: 2-3g/L, protective sprays every 7-10 days - Propiconazole 25% EC: 0.5 mL/L - Tebuconazole 25% EC: 0.5 mL/L - Azoxystrobin: 1-1.5 mL/L, systemic action - Mancozeb 75% WP: 2g/L for preventive sprays - Carbendazim 50% WP: 1g/L for curative action ### Cultural Control - Plant resistant varieties when available - Rotate crops (2-3 years away from groundnut) - Use certified disease-free seeds - Improve air circulation through proper spacing - Avoid overhead irrigation, use drip irrigation - Remove infected plant debris - Practice deep plowing to bury residue - Maintain balanced fertilization ### Expected Recovery - 7-14 days after chemical treatment if caught early - 50-70% yield recovery if treated promptly - Prevention more effective than cure - Severe infections may cause permanent yield loss - Early detection and treatment critical ## Cost Estimate - Fungicide spray: \u20b9500-1000/acre - Labor: \u20b9200-300/acre - Total: \u20b9700-1300/acre per application - Multiple applications (3-4) typically needed: \u20b92100-5200/acre total ## Prevention Tips - Start preventive sprays before flowering stage - Monitor fields regularly, especially after rainy periods - Use resistant groundnut varieties - Maintain proper plant spacing for air circulation - Avoid working with plants when wet - Implement crop rotation practices - Remove and destroy infected plant debris - Ensure proper drainage in fields",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/groundnut_leaf_spot.md",
+    "title": "groundnut_leaf_spot",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/groundnut_leaf_spot.md",
+      "title": "groundnut_leaf_spot"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/groundnut_leaf_spot.md",
+    "document_title": "groundnut_leaf_spot",
+    "embedding_id": 11
+  },
+  "12": {
+    "text": "permanent yield loss - Early detection and treatment critical ## Cost Estimate - Fungicide spray: \u20b9500-1000/acre - Labor: \u20b9200-300/acre - Total: \u20b9700-1300/acre per application - Multiple applications (3-4) typically needed: \u20b92100-5200/acre total ## Prevention Tips - Start preventive sprays before flowering stage - Monitor fields regularly, especially after rainy periods - Use resistant groundnut varieties - Maintain proper plant spacing for air circulation - Avoid working with plants when wet - Implement crop rotation practices - Remove and destroy infected plant debris - Ensure proper drainage in fields",
+    "chunk_id": 1,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/groundnut_leaf_spot.md",
+    "title": "groundnut_leaf_spot",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/groundnut_leaf_spot.md",
+      "title": "groundnut_leaf_spot"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/groundnut_leaf_spot.md",
+    "document_title": "groundnut_leaf_spot",
+    "embedding_id": 12
+  },
+  "13": {
+    "text": "# Late Blight (Phytophthora infestans) ## Overview Late blight is a devastating fungal disease affecting potato and tomato plants, caused by *Phytophthora infestans*. It's historically significant for causing the Irish Potato Famine and remains a major threat to potato production worldwide. ## Symptoms ### Potato Symptoms - Water-soaked lesions on leaves that quickly turn brown/black - White fungal growth on leaf undersides during humid conditions - Lesions on stems causing blackening and collapse - Brown, firm, sunken lesions on tubers - Copper-colored granular tissue beneath tuber skin - Tubers may rot in storage ### Tomato Symptoms - Water-soaked lesions on leaves, stems, and fruits - White fungal growth on affected tissues - Dark, leathery patches on fruits - Rapid plant collapse in severe cases - Fruit rot with characteristic \"water-soaked\" appearance ## Conditions - Temperature 15-20\u00b0C optimal for infection - High humidity (>90%) and leaf wetness critical - Cool, wet weather promotes rapid spread - Poor air circulation increases risk - Overhead irrigation spreads spores - Infected seed tubers and volunteer plants - Spores survive in tubers and plant debris ## Treatment ### Chemical Control - Chlorothalonil: 2-3g/L, protective sprays every 7-10 days - Copper-based fungicides: 2-3g/L, preventive applications - Mancozeb 75% WP: 2g/L for preventive sprays - Azoxystrobin: 1-1.5mL/L, systemic action - Cymoxanil + Mancozeb: 2g/L, curative action - Fentin hydroxide: 1.5g/L for severe infections ### Cultural Control - Plant certified disease-free seed tubers - Avoid planting in fields with history of late blight - Improve air circulation through proper spacing - Avoid overhead irrigation, use drip irrigation - Remove infected plants immediately - Destroy volunteer potato and tomato plants - Practice crop rotation (3-4 years away from solanaceous crops) - Ensure proper drainage in fields ### Expected Recovery - 7-14 days after chemical treatment if caught early - 40-60% yield recovery if treated promptly - Prevention critical - late blight spreads rapidly - Severe infections may cause total crop loss - Early detection and immediate action essential ## Cost Estimate - Fungicide spray: \u20b9800-1500/acre - Labor: \u20b9250-350/acre - Total: \u20b91050-1850/acre per application - Multiple applications (3-4) typically needed: \u20b93150-7400/acre total ## Prevention Tips - Start preventive sprays before disease symptoms appear - Monitor fields daily during cool, wet periods - Use resistant varieties when available - Avoid planting near infected fields - Remove and destroy infected plant material immediately - Disinfect tools and equipment between fields - Store",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/late_blight.md",
+    "title": "late_blight",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/late_blight.md",
+      "title": "late_blight"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/late_blight.md",
+    "document_title": "late_blight",
+    "embedding_id": 13
+  },
+  "14": {
+    "text": "40-60% yield recovery if treated promptly - Prevention critical - late blight spreads rapidly - Severe infections may cause total crop loss - Early detection and immediate action essential ## Cost Estimate - Fungicide spray: \u20b9800-1500/acre - Labor: \u20b9250-350/acre - Total: \u20b91050-1850/acre per application - Multiple applications (3-4) typically needed: \u20b93150-7400/acre total ## Prevention Tips - Start preventive sprays before disease symptoms appear - Monitor fields daily during cool, wet periods - Use resistant varieties when available - Avoid planting near infected fields - Remove and destroy infected plant material immediately - Disinfect tools and equipment between fields - Store potatoes in cool, dry conditions - Avoid working with plants when wet",
+    "chunk_id": 1,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/late_blight.md",
+    "title": "late_blight",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/late_blight.md",
+      "title": "late_blight"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/late_blight.md",
+    "document_title": "late_blight",
+    "embedding_id": 14
+  },
+  "15": {
+    "text": "# Leaf Blast (Pyricularia oryzae) ## Overview Leaf blast is a fungal disease affecting rice, wheat, and other cereals. Caused by *Pyricularia oryzae*, it causes significant yield loss. ## Symptoms - Brown to gray lesions on leaves - Diamond-shaped spots with darker borders - White center with brown ring - Lesions coalesce causing leaf death - Can affect stems (neck blast) and panicles ## Conditions - High humidity (>90%) - Temperature 20-28\u00b0C optimal - Poor nitrogen nutrition increases severity - Dense planting increases spread ## Treatment ### Chemical Control - Carbendazim 50% WP: 1g/L, spray every 10 days - Propiconazole 25% EC: 0.5 mL/L - Mancozeb 75% WP: 2g/L for preventive sprays ### Cultural Control - Use resistant varieties - Improve drainage - Balanced fertilization - Reduce planting density - Remove infected plant debris ### Expected Recovery - 7-14 days after chemical treatment - 50-70% yield recovery if caught early - Prevention more effective than cure ## Cost Estimate - Fungicide spray: \u20b9500-1000/acre - Labor: \u20b9200-300/acre - Total: \u20b9700-1300/acre",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/leaf_blast.md",
+    "title": "leaf_blast",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/leaf_blast.md",
+      "title": "leaf_blast"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/leaf_blast.md",
+    "document_title": "leaf_blast",
+    "embedding_id": 15
+  },
+  "16": {
+    "text": "# Mango Anthracnose (Colletotrichum gloeosporioides) ## Overview Mango anthracnose is a fungal disease affecting mango trees, caused by *Colletotrichum gloeosporioides*. It's the most common and destructive mango disease, affecting flowers, leaves, and fruits, causing significant yield loss and fruit quality reduction. ## Symptoms ### Flower Symptoms - Blackening and blighting of inflorescences - Flower drop and reduced fruit set - Dark lesions on flower panicles - Complete flower blight in severe cases ### Leaf Symptoms - Dark, irregular lesions on leaves - Lesions may have lighter centers - Premature leaf drop in severe infections - Shot-hole appearance as lesions expand ### Fruit Symptoms - Dark, sunken lesions on fruits - Lesions expand with pinkish spore masses - Fruit cracking and deformation - Post-harvest rot during storage - Reduced marketability and shelf life ## Conditions - Temperature 25-30\u00b0C optimal for infection - High humidity (>90%) and rainfall critical - Warm, wet weather promotes rapid spread - Overhead irrigation increases risk - Poor air circulation in dense canopy - Infected plant debris serves as inoculum - Blossom infection leads to fruit infection - Post-harvest infection during storage ## Treatment ### Chemical Control - Carbendazim 50% WP: 1g/L, spray every 10-12 days - Propiconazole 25% EC: 0.5 mL/L - Azoxystrobin: 1-1.5 mL/L, preventive sprays - Mancozeb 75% WP: 2g/L for preventive applications - Thiophanate-methyl: 1g/L for curative action - Copper oxychloride: 3g/L for preventive sprays ### Cultural Control - Plant resistant varieties when available - Prune trees to improve air circulation - Remove and destroy infected plant debris - Avoid overhead irrigation when possible - Ensure proper drainage in orchard - Apply balanced fertilization - Use post-harvest fungicide treatments - Implement proper orchard sanitation ### Expected Recovery - 7-14 days after chemical treatment if caught early - 50-70% yield recovery if treated promptly - Prevention critical due to flower susceptibility - Severe infections may cause permanent yield loss - Post-harvest treatments reduce storage losses ## Cost Estimate - Fungicide spray: \u20b9800-1500/acre - Labor: \u20b9300-400/acre - Total: \u20b91100-1900/acre per application - Multiple applications (4-6) typically needed: \u20b94400-11400/acre total ## Prevention Tips - Start preventive sprays before flowering - Continue sprays through fruit development - Apply post-harvest fungicide treatments - Prune trees to improve air circulation - Remove and destroy infected material - Avoid overhead irrigation during flowering - Maintain orchard sanitation - Monitor fields regularly during wet periods",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/mango_anthracnose.md",
+    "title": "mango_anthracnose",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/mango_anthracnose.md",
+      "title": "mango_anthracnose"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/mango_anthracnose.md",
+    "document_title": "mango_anthracnose",
+    "embedding_id": 16
+  },
+  "17": {
+    "text": "- Prevention critical due to flower susceptibility - Severe infections may cause permanent yield loss - Post-harvest treatments reduce storage losses ## Cost Estimate - Fungicide spray: \u20b9800-1500/acre - Labor: \u20b9300-400/acre - Total: \u20b91100-1900/acre per application - Multiple applications (4-6) typically needed: \u20b94400-11400/acre total ## Prevention Tips - Start preventive sprays before flowering - Continue sprays through fruit development - Apply post-harvest fungicide treatments - Prune trees to improve air circulation - Remove and destroy infected material - Avoid overhead irrigation during flowering - Maintain orchard sanitation - Monitor fields regularly during wet periods",
+    "chunk_id": 1,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/mango_anthracnose.md",
+    "title": "mango_anthracnose",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/mango_anthracnose.md",
+      "title": "mango_anthracnose"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/mango_anthracnose.md",
+    "document_title": "mango_anthracnose",
+    "embedding_id": 17
+  },
+  "18": {
+    "text": "# Northern Corn Leaf Blight (Exserohilum turcicum) ## Overview Northern corn leaf blight is a fungal disease affecting corn/maize plants, caused by *Exserohilum turcicum*. It's one of the most destructive corn diseases worldwide, causing significant yield loss through leaf damage and reduced photosynthesis. ## Symptoms - Long, cigar-shaped lesions on leaves (1-15 cm long) - Lesions are grayish-green to tan with distinct borders - Lesions typically appear on lower leaves first - In severe cases, lesions coalesce causing extensive leaf death - Premature leaf death reduces grain fill and yield - Stalk weakening and lodging in severe infections ## Conditions - Temperature 18-27\u00b0C optimal for infection - High humidity (>90%) and leaf wetness required - Warm, wet weather promotes rapid spread - Continuous corn cultivation increases risk - Overhead irrigation spreads spores - Spores survive in crop residue and soil - Susceptible hybrids more prone to infection ## Treatment ### Chemical Control - Azoxystrobin: 1-1.5 mL/L, preventive sprays - Pyraclostrobin: 1-1.5 mL/L, systemic action - Propiconazole 25% EC: 0.5 mL/L - Tebuconazole 25% EC: 0.5 mL/L - Mancozeb 75% WP: 2g/L for preventive sprays - Chlorothalonil: 2-3g/L, protective fungicide ### Cultural Control - Plant resistant hybrids when available - Rotate crops (2-3 years away from corn) - Till to incorporate crop residue - Avoid overhead irrigation, use drip irrigation - Maintain proper plant density for air circulation - Balance nitrogen fertilization - Remove infected plant debris - Use certified disease-free seeds ### Expected Recovery - 7-14 days after chemical treatment if caught early - 50-70% yield recovery if treated promptly - Prevention more effective than cure - Severe infections may cause permanent yield loss - Early detection and treatment critical ## Cost Estimate - Fungicide spray: \u20b9600-1200/acre - Labor: \u20b9200-300/acre - Total: \u20b9800-1500/acre per application - Multiple applications (2-3) typically needed: \u20b91600-4500/acre total ## Prevention Tips - Start preventive sprays before tasseling stage - Monitor fields regularly, especially after rainy periods - Use resistant corn varieties - Maintain proper plant spacing for air circulation - Avoid working with plants when wet - Implement crop rotation practices - Remove and destroy crop residue after harvest - Ensure proper drainage in fields",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/northern_corn_leaf_blight.md",
+    "title": "northern_corn_leaf_blight",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/northern_corn_leaf_blight.md",
+      "title": "northern_corn_leaf_blight"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/northern_corn_leaf_blight.md",
+    "document_title": "northern_corn_leaf_blight",
+    "embedding_id": 18
+  },
+  "19": {
+    "text": "needed: \u20b91600-4500/acre total ## Prevention Tips - Start preventive sprays before tasseling stage - Monitor fields regularly, especially after rainy periods - Use resistant corn varieties - Maintain proper plant spacing for air circulation - Avoid working with plants when wet - Implement crop rotation practices - Remove and destroy crop residue after harvest - Ensure proper drainage in fields",
+    "chunk_id": 1,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/northern_corn_leaf_blight.md",
+    "title": "northern_corn_leaf_blight",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/northern_corn_leaf_blight.md",
+      "title": "northern_corn_leaf_blight"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/northern_corn_leaf_blight.md",
+    "document_title": "northern_corn_leaf_blight",
+    "embedding_id": 19
+  },
+  "20": {
+    "text": "# Septoria Leaf Spot (Septoria lycopersici) ## Overview Septoria leaf spot is a fungal disease affecting tomato plants, caused by *Septoria lycopersici*. It's one of the most common tomato diseases, causing significant yield loss through leaf damage and defoliation. ## Symptoms - Small, circular water-soaked spots on leaves (1-3mm diameter) - Spots develop dark brown borders with gray centers - Numerous spots on a single leaf, giving a speckled appearance - Yellowing (chlorosis) around spots - Spots primarily on lower leaves initially - In severe cases, leaves turn yellow and drop - Stem lesions are rare but can occur - Fruit is usually not affected ## Conditions - Temperature 20-25\u00b0C optimal for infection - High humidity (>90%) and leaf wetness required - Warm, wet weather promotes rapid spread - Poor air circulation increases risk - Overcrowding and dense planting - Overhead irrigation spreads spores - Spores survive in plant debris and soil ## Treatment ### Chemical Control - Chlorothalonil: 2-3g/L, spray every 7-10 days - Copper-based fungicides: 2-3g/L, preventive sprays - Mancozeb 75% WP: 2g/L for preventive sprays - Azoxystrobin: 1-1.5mL/L, systemic action - Iprodione 50% WP: 1.5g/L for curative action - Myclobutanil: 1-2mL/L, systemic fungicide ### Cultural Control - Remove infected leaves immediately - Improve air circulation through proper spacing - Avoid overhead irrigation, use drip irrigation - Stake plants to improve air flow - Mulch to reduce soil splash - Crop rotation (3-4 years away from solanaceous crops) - Remove and destroy plant debris at season end - Use resistant varieties when available - Ensure proper fertilization - Disinfect tools between plants ### Expected Recovery - 7-14 days after chemical treatment if caught early - 50-70% yield recovery if treated promptly - Prevention more effective than cure - Severe infections may cause permanent yield loss - Early detection and treatment critical ## Cost Estimate - Fungicide spray: \u20b9400-800/acre - Labor: \u20b9150-250/acre - Total: \u20b9550-1050/acre per application - Multiple applications (2-3) typically needed: \u20b91100-3150/acre total ## Prevention Tips - Start preventive sprays before symptoms appear - Monitor plants regularly, especially after rainy periods - Maintain plant vigor through proper nutrition - Remove lower leaves to improve air circulation - Disinfect tools between plants - Use disease-free seeds and transplants - Avoid working with plants when wet - Keep garden area free of weeds and debris",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/septoria_leaf_spot.md",
+    "title": "septoria_leaf_spot",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/septoria_leaf_spot.md",
+      "title": "septoria_leaf_spot"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/septoria_leaf_spot.md",
+    "document_title": "septoria_leaf_spot",
+    "embedding_id": 20
+  },
+  "21": {
+    "text": "and treatment critical ## Cost Estimate - Fungicide spray: \u20b9400-800/acre - Labor: \u20b9150-250/acre - Total: \u20b9550-1050/acre per application - Multiple applications (2-3) typically needed: \u20b91100-3150/acre total ## Prevention Tips - Start preventive sprays before symptoms appear - Monitor plants regularly, especially after rainy periods - Maintain plant vigor through proper nutrition - Remove lower leaves to improve air circulation - Disinfect tools between plants - Use disease-free seeds and transplants - Avoid working with plants when wet - Keep garden area free of weeds and debris",
+    "chunk_id": 1,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/septoria_leaf_spot.md",
+    "title": "septoria_leaf_spot",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/septoria_leaf_spot.md",
+      "title": "septoria_leaf_spot"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/septoria_leaf_spot.md",
+    "document_title": "septoria_leaf_spot",
+    "embedding_id": 21
+  },
+  "22": {
+    "text": "# Sheath Blight (Rhizoctonia solani) ## Overview Fungal disease causing sheaths rot in rice. Caused by *Rhizoctonia solani*, spreads rapidly in warm, humid conditions. ## Symptoms - Oval lesions on leaf sheaths - Brown with grayish center - Irregular borders - Lesions merge causing sheath collapse - Panicle infection causes grain discoloration ## Conditions - Temperature 25-30\u00b0C optimal - High humidity and poor drainage - Nitrogen excess promotes disease - Spreads through water splash ## Treatment ### Chemical Control - Tricyclazole 75% WP: 1g/L - Hexaconazole 5% SC: 1.5 mL/L - Iprodione 50% WP: 1.5g/L ### Cultural Control - Avoid excess nitrogen - Improve water management - Remove plant debris - Crop rotation (2-3 years) - Use disease-free seeds ### Expected Recovery - 10-15 days post-treatment - 60-80% yield recovery - Prevention critical (cultural methods) ## Cost Estimate - Fungicide: \u20b9600-1200/acre - Total: \u20b9800-1500/acre",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/sheath_blight.md",
+    "title": "sheath_blight",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/sheath_blight.md",
+      "title": "sheath_blight"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/sheath_blight.md",
+    "document_title": "sheath_blight",
+    "embedding_id": 22
+  },
+  "23": {
+    "text": "# Soybean Rust (Phakopsora pachyrhizi) ## Overview Soybean rust is a fungal disease affecting soybean plants, caused by *Phakopsora pachyrhizi*. It's a highly destructive disease that can cause rapid yield loss if not managed properly. The fungus is wind-dispersed and can spread over long distances. ## Symptoms - Small, tan to reddish-brown lesions on leaves - Lesions primarily on lower leaves initially - Pustules (uredinia) erupting from lesions - Yellowing (chlorosis) around lesions - Premature defoliation in severe cases - Reduced pod fill and seed quality - Lesions may also appear on stems, pods, and petioles ## Conditions - Temperature 15-28\u00b0C optimal for infection - High humidity (>90%) and leaf wetness required - Warm, humid weather promotes rapid spread - Extended leaf wetness periods (6+ hours) critical - Overhead irrigation increases risk - Wind disperses spores over long distances - Volunteer soybean plants serve as inoculum source ## Treatment ### Chemical Control - Azoxystrobin: 1-1.5 mL/L, preventive sprays - Pyraclostrobin: 1-1.5 mL/L, systemic action - Tebuconazole 25% EC: 0.5 mL/L - Propiconazole 25% EC: 0.5 mL/L - Fluxapyroxad: 0.5-1 mL/L, preventive and curative - Trifloxystrobin: 1-1.5 mL/L, systemic fungicide ### Cultural Control - Plant early-maturing varieties to escape peak infection - Maintain proper plant spacing for air circulation - Avoid late planting in high-risk areas - Remove volunteer soybean plants - Rotate crops (1-2 years away from soybean) - Avoid overhead irrigation when possible - Monitor fields regularly during critical periods - Use resistant varieties when available ### Expected Recovery - 7-14 days after chemical treatment if caught early - 50-70% yield recovery if treated promptly - Prevention critical due to rapid disease spread - Severe infections may cause 80%+ yield loss - Early detection and immediate treatment essential ## Cost Estimate - Fungicide spray: \u20b9700-1400/acre - Labor: \u20b9250-350/acre - Total: \u20b9950-1750/acre per application - Multiple applications (2-3) typically needed: \u20b91900-5250/acre total ## Prevention Tips - Start preventive sprays at flowering stage - Monitor fields regularly, especially after rain - Scout lower leaves for early symptoms - Use fungicides with different modes of action - Avoid working with plants when wet - Implement crop rotation practices - Remove and destroy infected plant debris - Stay informed about rust outbreaks in region",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/soybean_rust.md",
+    "title": "soybean_rust",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/soybean_rust.md",
+      "title": "soybean_rust"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/soybean_rust.md",
+    "document_title": "soybean_rust",
+    "embedding_id": 23
+  },
+  "24": {
+    "text": "Total: \u20b9950-1750/acre per application - Multiple applications (2-3) typically needed: \u20b91900-5250/acre total ## Prevention Tips - Start preventive sprays at flowering stage - Monitor fields regularly, especially after rain - Scout lower leaves for early symptoms - Use fungicides with different modes of action - Avoid working with plants when wet - Implement crop rotation practices - Remove and destroy infected plant debris - Stay informed about rust outbreaks in region",
+    "chunk_id": 1,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/soybean_rust.md",
+    "title": "soybean_rust",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/soybean_rust.md",
+      "title": "soybean_rust"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/soybean_rust.md",
+    "document_title": "soybean_rust",
+    "embedding_id": 24
+  },
+  "25": {
+    "text": "# Sugarcane Red Rot (Colletotrichum falcatum) ## Overview Sugarcane red rot is a fungal disease affecting sugarcane, caused by *Colletotrichum falcatum*. It's one of the most destructive sugarcane diseases, causing significant yield loss through stalk rotting and reduced juice quality. ## Symptoms - Reddish internal tissue with white spots in stalks - Sour alcoholic odor from affected stalks - Stalks become hollow and collapse - Leaf drying and wilting from top downward - Red lesions on leaf sheaths - Reduced cane weight and juice quality - Stalks may break easily in affected areas - Fungal growth in severe infections ## Conditions - Temperature 25-32\u00b0C optimal for infection - High humidity (>85%) and rainfall critical - Waterlogged conditions promote disease - Poor drainage increases risk - Continuous sugarcane cultivation increases inoculum - Infected setts (seed cane) spread disease - Insect damage creates entry points - Nutrient stress increases susceptibility ## Treatment ### Chemical Control - Carbendazim 50% WP: 2g/L sett treatment - Thiophanate-methyl: 2g/kg sett treatment - Trichoderma viride: 10g/kg sett treatment - Hot water treatment of setts (50\u00b0C for 30 min) - Copper oxychloride: 3g/L for spray applications - Mancozeb 75% WP: 2g/L for preventive sprays ### Cultural Control - Use disease-free setts from healthy fields - Hot water or fungicide treatment of setts - Plant resistant varieties when available - Improve field drainage - Avoid waterlogging - Remove and destroy infected stalks - Practice crop rotation (2-3 years) - Maintain balanced fertilization ### Expected Recovery - Limited recovery once infection established - Prevention critical - no effective cure - Early detection allows removal of affected stools - Resistant varieties show good resistance - Sett treatment significantly reduces disease incidence - Proper drainage reduces disease pressure ## Cost Estimate - Sett treatment: \u20b9200-400/acre - Fungicide spray: \u20b9600-1200/acre - Labor: \u20b9250-350/acre - Total: \u20b91050-1950/acre for preventive measures - No effective treatment after infection ## Prevention Tips - Use certified disease-free setts - Treat setts with hot water or fungicides - Plant red rot-resistant varieties - Ensure proper field drainage - Avoid waterlogging conditions - Remove and destroy infected stools immediately - Implement crop rotation practices - Maintain balanced fertilization - Control insect pests that create wounds",
+    "chunk_id": 0,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/sugarcane_red_rot.md",
+    "title": "sugarcane_red_rot",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/sugarcane_red_rot.md",
+      "title": "sugarcane_red_rot"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/sugarcane_red_rot.md",
+    "document_title": "sugarcane_red_rot",
+    "embedding_id": 25
+  },
+  "26": {
+    "text": "- Total: \u20b91050-1950/acre for preventive measures - No effective treatment after infection ## Prevention Tips - Use certified disease-free setts - Treat setts with hot water or fungicides - Plant red rot-resistant varieties - Ensure proper field drainage - Avoid waterlogging conditions - Remove and destroy infected stools immediately - Implement crop rotation practices - Maintain balanced fertilization - Control insect pests that create wounds",
+    "chunk_id": 1,
+    "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/sugarcane_red_rot.md",
+    "title": "sugarcane_red_rot",
+    "page": 0,
+    "metadata": {
+      "source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/sugarcane_red_rot.md",
+      "title": "sugarcane_red_rot"
+    },
+    "document_source": "/Users/arsh/Work/Development/Lenovo Leap internship/FProject/agrisense-ai/backend/data/documents/sugarcane_red_rot.md",
+    "document_title": "sugarcane_red_rot",
+    "embedding_id": 26
+  }
+}
