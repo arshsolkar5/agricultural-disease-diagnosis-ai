@@ -37,7 +37,8 @@ htmlcov/
 *.sqlite3
 
 # Data
-data/faiss_index/
+backend/data/faiss_index/
+# Keep backend/data/documents/ - these are essential for RAG system
 
 # Node / Frontend
 node_modules/

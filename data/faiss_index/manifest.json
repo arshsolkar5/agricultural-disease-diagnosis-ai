@@ -1,0 +1,8 @@
+{
+  "documents": [],
+  "docs_path": "data/documents",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "chunk_size": 400,
+  "overlap": 100
+}
