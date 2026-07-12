@@ -58,7 +58,7 @@ class Settings(BaseSettings):
     # OpenRouter
     openrouter_api_key: Optional[str] = ""
     openrouter_base_url: str = "https://openrouter.ai/api/v1"
-    openrouter_model: str = "qwen/qwen3-next-80b-a3b-instruct:free"
+    openrouter_model: str = "meta-llama/llama-3.3-70b-instruct"
     openrouter_timeout_seconds: float = 60.0
     openrouter_max_retries: int = 3
     openrouter_retry_backoff_seconds: float = 1.5
